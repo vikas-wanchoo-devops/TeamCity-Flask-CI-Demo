@@ -205,7 +205,7 @@ object HttpsGithubComVikasWanchooDevopsFlaskAPIDockerCicdRefsHeadsDevelop : GitV
     branchSpec = "refs/heads/*"
     authMethod = password {
         userName = "vikas-wanchoo-devops"
-        password = "cks0945d67f17e2216eb2eeb24280893a69/Hd9XNlC0AC7SC6CeITFjcwYYuUYZAjBbeXgM67EjQd7EWXmFFZuM2E1VO+urH5q"
+        password = "credentialsJSON:d973c687-143b-480a-b774-ab8bd7500167"
     }
 })
 
@@ -216,7 +216,7 @@ object HttpsGithubComVikasWanchooDevopsFlaskAPIDockerCicdRefsHeadsDevelop1 : Git
     branchSpec = "refs/heads/*"
     authMethod = password {
         userName = "vikas-wanchoo-devops"
-        password = "cks0945d67f17e2216eb2eeb24280893a69/Hd9XNlC0AC7SC6CeITFjcwYYuUYZAjBbeXgM67EjQd7EWXmFFZuM2E1VO+urH5q"
+        password = "credentialsJSON:d973c687-143b-480a-b774-ab8bd7500167"
     }
 })
 
@@ -227,6 +227,6 @@ object HttpsGithubComVikasWanchooDevopsFlaskAPIDockerCicdRefsHeadsDevelop2 : Git
     branchSpec = "refs/heads/*"
     authMethod = password {
         userName = "vikas-wanchoo-devops"
-        password = "cks0945d67f17e2216eb2eeb24280893a69/Hd9XNlC0AC7SC6CeITFjcwYYuUYZAjBbeXgM67EjQd7EWXmFFZuM2E1VO+urH5q"
+        password = "credentialsJSON:d973c687-143b-480a-b774-ab8bd7500167"
     }
 })
