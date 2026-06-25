@@ -184,7 +184,7 @@ object WindowsAgentBuild : BuildType({
             name = "Windows Agent Test"
             id = "Windows_Agent_Test"
             scriptContent = """
-                echo Running on Windows self-hosted TeamCity agent
+                echo Running on Windows self-hosted TeamCity agent..
                 hostname
                 echo Agent name: %teamcity.agent.name%
                 python --version
